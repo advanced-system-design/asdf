@@ -1,11 +1,6 @@
 # Asdf
-Advanced System Design Final (ASDF)
-
- installation instructions and basic usage.
- 
- ![build status](https://travis-ci.org/dan-gittik/foobar.svg?branch=master)
-![coverage](https://codecov.io/gh/dan-gittik/foobar/branch/master/graph/badge.svg)
-
+Welcome to my Advanced System Design Final (ASDF) project!
+Here I will present instructions for installation and basic usage.
 
 
 ## Installation
@@ -37,7 +32,7 @@ Advanced System Design Final (ASDF)
 
 ## Usage
 
-The `foobar` packages provides the following classes:
+The `foobar` package provides the following classes:
 
 - `Foo`
 
